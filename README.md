@@ -8,7 +8,7 @@ To use the code and run the demo, please follow the instructions below
 
 **(Tested on Windows 7 64-bit, and Compile the source code in Win32 Debug mode)
 
-1.Install IPP 8.0 here:
+<b>1.Install IPP 8.0:</b>
 <pre><code>
 https://registrationcenter.intel.com/RegCenter/AutoGen.aspx?ProductID=1943&AccountID=&EmailID=&ProgramID=&RequestDt=&rm=EVAL&lang=&pass=yes
 </code></pre>
@@ -21,14 +21,13 @@ This link provides a 30-days free trial. Ask me for a activation file in person 
 
 
 
-2.Install OpenCV.
+<b>2.Install OpenCV</b>
 
 The instructions below is suitable for opencv 2.4.7. However, it should work for all versions of opencv after opencv 2.1
 with minor changes in the environment setting.
 
 
-
-3.Setting system path:
+<b>3.Setting system path:</b>
 <pre><code> 
 Environment Variables -> System variables -> Path:
 C:\opencv\build\x86\vc11\bin; 
@@ -38,7 +37,7 @@ C:\Program Files (x86)\Intel\Composer XE\redist\ia32\ipp;
 
 
 
-4.Open the .sln project file of MILTracker
+<b>4.Open the .sln project file of MILTracker </b>
 
 Project->Properties->Configuration Properties->C/C++->General->Additional Include Directories:
 <pre><code>
