@@ -10,7 +10,7 @@ To use the code and run the demo, please follow the instructions below
 
 <b>1.Install IPP 8.0:</b>
 <pre><code>
-https://registrationcenter.intel.com/RegCenter/AutoGen.aspx?ProductID=1943&AccountID=&EmailID=&ProgramID=&RequestDt=&rm=EVAL&lang=&pass=yes
+http://software.intel.com/en-us/intel-integrated-performance-primitives-evaluation-options
 </code></pre>
 This link provides a 30-days free trial. Ask me for a activation file in person if needed.
 
