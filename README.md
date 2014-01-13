@@ -17,8 +17,7 @@ This link provides a 30-days free trial. Ask me for a activation file in person 
 
 *The default path should be like "C:\Program Files (x86)\Intel\Composer XE\"
 
-*You may need to also install Intel Composer XE if you haven't yet.
-
+*You do NOT need to install Intel Composer XE.
 
 
 <b>2.Install OpenCV</b>
