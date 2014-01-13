@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="public">
+      <UniqueIdentifier>{7eb865c6-b2e3-40b4-be23-22ea7e8f9e7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{22e4f992-461b-4296-85c9-58a32ec46d46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="boostTracker">
+      <UniqueIdentifier>{9b2eb2a3-96d2-4116-98c0-6b0bcf41e850}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Matrix.cpp">
+      <Filter>public</Filter>
+    </ClCompile>
+    <ClCompile Include="Public.cpp">
+      <Filter>public</Filter>
+    </ClCompile>
+    <ClCompile Include="BoostTrackMain.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageFtr.cpp">
+      <Filter>boostTracker</Filter>
+    </ClCompile>
+    <ClCompile Include="OnlineBoost.cpp">
+      <Filter>boostTracker</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample.cpp">
+      <Filter>boostTracker</Filter>
+    </ClCompile>
+    <ClCompile Include="Tracker.cpp">
+      <Filter>boostTracker</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Matrix.h">
+      <Filter>public</Filter>
+    </ClInclude>
+    <ClInclude Include="Public.h">
+      <Filter>public</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageFtr.h">
+      <Filter>boostTracker</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlineBoost.h">
+      <Filter>boostTracker</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample.h">
+      <Filter>boostTracker</Filter>
+    </ClInclude>
+    <ClInclude Include="Tracker.h">
+      <Filter>boostTracker</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
